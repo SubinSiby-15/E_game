@@ -1,0 +1,586 @@
+fileFormatVersion: 2
+guid: b6215eaaa459ab84384bbfa233611a7f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1460707762712305464
+    second: explosion-effects-icons-set_0
+  - first:
+      213: 7252794975110272588
+    second: explosion-effects-icons-set_1
+  - first:
+      213: -4257671368540574859
+    second: explosion-effects-icons-set_2
+  - first:
+      213: -5950943065813043250
+    second: explosion-effects-icons-set_3
+  - first:
+      213: -4601897963081651944
+    second: explosion-effects-icons-set_4
+  - first:
+      213: 173341930309626161
+    second: explosion-effects-icons-set_5
+  - first:
+      213: 2969002414838597070
+    second: explosion-effects-icons-set_6
+  - first:
+      213: -6644488638838202924
+    second: explosion-effects-icons-set_7
+  - first:
+      213: -8122424245481269712
+    second: explosion-effects-icons-set_8
+  - first:
+      213: -7438243368070077131
+    second: explosion-effects-icons-set_9
+  - first:
+      213: -243494363276582807
+    second: explosion-effects-icons-set_10
+  - first:
+      213: -1836705613360588618
+    second: explosion-effects-icons-set_11
+  - first:
+      213: 6574256299178631313
+    second: explosion-effects-icons-set_12
+  - first:
+      213: 7828530456818658972
+    second: explosion-effects-icons-set_13
+  - first:
+      213: -4577955710907303439
+    second: explosion-effects-icons-set_14
+  - first:
+      213: 1521590723905010437
+    second: explosion-effects-icons-set_15
+  - first:
+      213: -5794664793130131452
+    second: explosion-effects-icons-set_16
+  - first:
+      213: 6184539394455232960
+    second: explosion-effects-icons-set_17
+  - first:
+      213: -4528152081815325231
+    second: explosion-effects-icons-set_18
+  - first:
+      213: 4476853623486842583
+    second: explosion-effects-icons-set_19
+  - first:
+      213: -6905644933939182180
+    second: explosion-effects-icons-set_20
+  - first:
+      213: -3510211923429621141
+    second: explosion-effects-icons-set_21
+  - first:
+      213: 2589019905208791162
+    second: explosion-effects-icons-set_22
+  - first:
+      213: 120756587314008181
+    second: explosion-effects-icons-set_23
+  - first:
+      213: -7765638057485985306
+    second: explosion-effects-icons-set_24
+  - first:
+      213: -1645090465413579911
+    second: explosion-effects-icons-set_25
+  - first:
+      213: 3919298838397143186
+    second: explosion-effects-icons-set_26
+  - first:
+      213: 3360937862002029448
+    second: explosion-effects-icons-set_27
+  - first:
+      213: 8372982720843999192
+    second: explosion-effects-icons-set_28
+  - first:
+      213: 926141773828399122
+    second: explosion-effects-icons-set_29
+  - first:
+      213: -6712495609194347703
+    second: explosion-effects-icons-set_30
+  - first:
+      213: 5496083735895934608
+    second: explosion-effects-icons-set_31
+  - first:
+      213: -6527800543415403466
+    second: explosion-effects-icons-set_32
+  - first:
+      213: 4942704848903231247
+    second: explosion-effects-icons-set_33
+  - first:
+      213: -8096998972411940434
+    second: explosion-effects-icons-set_34
+  - first:
+      213: -5392283392050310063
+    second: explosion-effects-icons-set_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: explosion-effects-icons-set_0
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1403
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c0a0ea67068abbe0800000000000000
+      internalID: -1460707762712305464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-effects-icons-set_1
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 1415
+        width: 174
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c469f285a9a17a460800000000000000
+      internalID: 7252794975110272588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-effects-icons-set_2
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 1403
+        width: 180
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57ba9cbc276b9e4c0800000000000000
+      internalID: -4257671368540574859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-effects-icons-set_3
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 724
+        width: 463
+        height: 561
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec7b3a3afc00a6da0800000000000000
+      internalID: -5950943065813043250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-effects-icons-set_4
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 132
+        width: 459
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 819ace93f26c220c0800000000000000
+      internalID: -4601897963081651944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-effects-icons-set_5
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 764
+        width: 278
+        height: 246
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13929c43195d76200800000000000000
+      internalID: 173341930309626161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-effects-icons-set_6
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 749
+        width: 351
+        height: 524
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec54bb147f3043920800000000000000
+      internalID: 2969002414838597070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-effects-icons-set_7
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 137
+        width: 459
+        height: 528
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dd1ee779c80ac3a0800000000000000
+      internalID: -6644488638838202924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-effects-icons-set_28
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 135
+        width: 459
+        height: 528
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d7e3623c6fc23470800000000000000
+      internalID: 8372982720843999192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-effects-icons-set_32
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 134
+        width: 41
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63c7f15ddf79865a0800000000000000
+      internalID: -6527800543415403466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-effects-icons-set_33
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 128
+        width: 42
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f075a7c5fd3089440800000000000000
+      internalID: 4942704848903231247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-effects-icons-set_34
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 131
+        width: 65
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea1fea6955ea1af80800000000000000
+      internalID: -8096998972411940434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-effects-icons-set_35
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 134
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1545a9013d2ca25b0800000000000000
+      internalID: -5392283392050310063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      explosion-effects-icons-set_0: -1460707762712305464
+      explosion-effects-icons-set_1: 7252794975110272588
+      explosion-effects-icons-set_10: -243494363276582807
+      explosion-effects-icons-set_11: -1836705613360588618
+      explosion-effects-icons-set_12: 6574256299178631313
+      explosion-effects-icons-set_13: 7828530456818658972
+      explosion-effects-icons-set_14: -4577955710907303439
+      explosion-effects-icons-set_15: 1521590723905010437
+      explosion-effects-icons-set_16: -5794664793130131452
+      explosion-effects-icons-set_17: 6184539394455232960
+      explosion-effects-icons-set_18: -4528152081815325231
+      explosion-effects-icons-set_19: 4476853623486842583
+      explosion-effects-icons-set_2: -4257671368540574859
+      explosion-effects-icons-set_20: -6905644933939182180
+      explosion-effects-icons-set_21: -3510211923429621141
+      explosion-effects-icons-set_22: 2589019905208791162
+      explosion-effects-icons-set_23: 120756587314008181
+      explosion-effects-icons-set_24: -7765638057485985306
+      explosion-effects-icons-set_25: -1645090465413579911
+      explosion-effects-icons-set_26: 3919298838397143186
+      explosion-effects-icons-set_27: 3360937862002029448
+      explosion-effects-icons-set_28: 8372982720843999192
+      explosion-effects-icons-set_29: 926141773828399122
+      explosion-effects-icons-set_3: -5950943065813043250
+      explosion-effects-icons-set_30: -6712495609194347703
+      explosion-effects-icons-set_31: 5496083735895934608
+      explosion-effects-icons-set_32: -6527800543415403466
+      explosion-effects-icons-set_33: 4942704848903231247
+      explosion-effects-icons-set_34: -8096998972411940434
+      explosion-effects-icons-set_35: -5392283392050310063
+      explosion-effects-icons-set_4: -4601897963081651944
+      explosion-effects-icons-set_5: 173341930309626161
+      explosion-effects-icons-set_6: 2969002414838597070
+      explosion-effects-icons-set_7: -6644488638838202924
+      explosion-effects-icons-set_8: -8122424245481269712
+      explosion-effects-icons-set_9: -7438243368070077131
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
